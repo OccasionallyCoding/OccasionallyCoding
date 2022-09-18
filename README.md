@@ -4,7 +4,7 @@
 **OccasionallyCoding/OccasionallyCoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on my Github Portfolio
 - 🌱 I’m currently learning Data Science on the Google Cloud Platform
 - 👯 I’m looking to collaborate on open source projects that have a positive impact on the environment, web3, crypto, games
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: comment on my README.md and I will provide my LinkedIn!
 - 😄 Pronouns: just call me Jordy 😉 
 - ⚡ Fun fact: I live in North America
--->
